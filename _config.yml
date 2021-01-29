@@ -6,7 +6,7 @@
 
 baseurl:
 
-url: https://mazhuang.org
+url: https://mousse-cake.github.io
 
 date_format: "ordinal"
 
@@ -76,13 +76,13 @@ highlight_theme: github
 
 # ---------------- #
 
-author: Zhuang Ma
+author: Mousse
 
 organization: 
 
 organization_url: 
 
-github_username: mzlogin
+github_username: Mousse-cake
 
 location: Wuhan, China
 
