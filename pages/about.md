@@ -21,7 +21,6 @@ permalink: /about/
 {% if site.url contains 'mousse-cake.github.io' %}
 <li>
 
-{% endif %}
 </ul>
 
 
