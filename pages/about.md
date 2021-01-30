@@ -19,12 +19,6 @@ permalink: /about/
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 {% if site.url contains 'mousse-cake.github.io' %}
-<li>
-
-</ul>
-
-
-## Skill Keywords
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
