@@ -20,9 +20,6 @@ permalink: /about/
 {% endfor %}
 {% if site.url contains 'mousse-cake.github.io' %}
 <li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="mousse-cake" />
-</li>
 {% endif %}
 </ul>
 
